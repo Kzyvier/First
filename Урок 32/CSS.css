@@ -1,0 +1,214 @@
+.head{
+	background-color: red;
+	height: 100px;
+}
+
+.banner{
+	background-color: red;
+	height: 370px;
+	margin-top: 20px;
+	background-image: url(1.jpg);
+	background-size: 100% 200%;
+	padding-top: 130px;
+
+}
+
+.whitediv{
+	margin-left: auto;
+	margin-right: auto;
+	height: 2500px;
+	background-image: url(background2.jpg);
+	background-size: 100% 100%;
+}
+
+.mini-banner{
+	background-color: white;
+	height: 400px;
+	margin-top: 30px;
+}
+
+.blue-head{
+	background-color: blue;
+	height: 100px;
+	width: 1700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.mx-auto{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.blue-banner{
+	background-color: black;
+	height: 400px;
+	width: 450px;
+	margin-left: 12px;
+}
+
+.banner-font{
+	font-size: 100px;
+	font-family: cursive;
+	color: black;
+	text-align: center;
+}
+
+.d-flex{
+	display: flex;
+}
+
+.footer{
+	background-color: black;
+	width: 1800px;
+	height: 400px;
+	margin-top: 20px;
+	
+}
+
+.img{
+	width: 450px;
+	height: 300px;
+}
+
+.bannertext{
+	font-size: 18px;
+	font-family: Arial;
+	color: white;
+}
+
+.imgmini{
+	width: 450px;
+	height: 200px;
+
+}
+
+.minitext{
+	font-size: 12px;
+	font-family: Arial;
+	color: white;
+}
+
+.footertext{
+	font-size: 25px;
+	font-family: Arial;
+	text-align: center;
+	color: white;
+}
+
+.minitext2{
+	font-size: 11px;
+	font-family: Arial;
+	color: white;
+}
+
+.footer2{
+	background-color: black;
+	height: 350px;
+	margin-top: 20px;
+}
+
+.videodiv{
+	background-color: blue;
+	height: 350px;
+	margin-left: 17px;
+	width: 450px;
+}
+
+.header2{
+	background-image: url(7.jpg);
+	height: 1500px;
+	background-size: 100% 100%;
+}
+
+.historydiv{
+	height: 1000px;
+	
+	width: 600px;
+	margin-left: 20px;
+}
+
+.banner-font2{
+	color: red;
+	font-size: 29.9px;
+	font-family: Arial;
+}
+
+
+.button{
+	margin-left: 1800px;
+}
+
+.header3{
+	background-image: url(7.jpg);
+	height: 3000px;
+	background-size: 100% 100%;
+}
+
+.banner-font3{
+	color: red;
+	font-size: 29.9px;
+	font-family: Arial;
+	text-align: center;
+}
+
+.img2{
+	height: 400px;
+	width: 500px
+}
+
+.gif{
+	width: 300px;
+	height: 300px;
+
+}
+
+.img3{
+	height: 550px;
+	width: 600px;
+}
+
+.footer3{
+	background-color: black;
+	width: 1886px;
+	height: 550px;
+	margin-top: 20px;
+	
+}
+
+.bankaitext{
+	font-size: 18px;
+	font-family: Arial;
+	color: red;
+	font-weight: 750;
+}
+
+.bankaitext2{
+	font-size: 18px;
+	font-family: Arial;
+	color: blue;
+}
+
+.bankaitext3{
+	font-size: 18px;
+	font-family: Arial;
+	color: yellow;
+}
+
+.bankaitext4{
+	font-size: 18px;
+	font-family: Arial;
+	color: orange;
+}
+
+.bankaitext5{
+	font-size: 18px;
+	font-family: Arial;
+	color: #7a1414;
+}
+
+.bankaitext6{
+	font-size: 18px;
+	font-family: Arial;
+	color: #08cfc5;
+}
